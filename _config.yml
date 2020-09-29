@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Climbing Center Population."
+title: "Climbing Centre Population."
 email: 'aiden@vaines.org'
 description: "A climbing center population aggregator for the centres I use."
 baseurl: ""
