@@ -86,7 +86,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2020 Aiden Vaines'
+footer_text: '© 2021 Aiden Vaines'
 admin_name: 'Aiden'
 google_analytics: "UA-26350585-2" # Update with your own tracking ID
 enable_contact: false
