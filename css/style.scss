@@ -157,6 +157,11 @@ button.btn, input.btn {
   justify-content: space-between;
   flex-basis: auto;
   flex-wrap: wrap;
+  pointer-events: none;
+}
+
+.occupancyCounter {
+  pointer-events: none;
 }
 
 .centre-container {
