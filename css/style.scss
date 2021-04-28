@@ -150,6 +150,15 @@ button.btn, input.btn {
   }
 }
 
+.hero-content .hero-centres {
+  margin: 0 auto;
+  display: table;
+  display: flex;
+  justify-content: space-between;
+  flex-basis: auto;
+  flex-wrap: wrap;
+}
+
 .centre-container {
   align-content: center;
 }
